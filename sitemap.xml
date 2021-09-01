@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://travelgoals.uk/</loc>
+  <lastmod>2021-08-25T22:16:57+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://travelgoals.uk/aboutus/</loc>
+  <lastmod>2021-08-25T22:17:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://travelgoals.uk/services/</loc>
+  <lastmod>2021-08-25T22:16:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://travelgoals.uk/destinations/</loc>
+  <lastmod>2021-08-25T22:17:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://travelgoals.uk/exclusive-deals/</loc>
+  <lastmod>2021-08-25T22:17:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://travelgoals.uk/contactus/</loc>
+  <lastmod>2021-08-25T22:17:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://travelgoals.uk/destinations/bali/</loc>
+  <lastmod>2021-08-25T22:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://travelgoals.uk/privacy-policy/</loc>
+  <lastmod>2021-08-25T22:17:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://travelgoals.uk/destinations/bali/index.html</loc>
+  <lastmod>2021-08-25T22:17:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://travelgoals.uk/destinations/bali/bali.html</loc>
+  <lastmod>2021-08-17T21:05:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

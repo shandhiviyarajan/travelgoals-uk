@@ -1,0 +1,93 @@
+/**
+ primary:#552990,
+ */
+/* menu customization */
+#menu-main-navigation-1 li.menu-item a.sf-with-ul-pre, #menu-main-navigation-1 li.menu-item a {
+  color: #F2547D;
+}
+#menu-main-navigation-1 li.current-menu-item a.sf-with-ul-pre, #menu-main-navigation-1 li.current-menu-item a {
+  color: #F2547D;
+}
+
+#traveltour-navigation-slide-bar {
+  border-color: #F2547D;
+}
+
+.traveltour-main-menu-search i, .traveltour-main-menu-cart i {
+  color: #F2547D;
+}
+
+.traveltour-copyright-wrapper {
+  background: #161616;
+}
+
+#home-content-block-3-column {
+  border-radius: 3px 3px 3px 3px;
+  -moz-border-radius: 3px 3px 3px 3px;
+  -webkit-border-radius: 3px 3px 3px 3px;
+  background-color: #F2547D;
+  background: linear-gradient(#F2547D, #37195f);
+  -moz-background: linear-gradient(#F2547D, #37195f);
+  -o-background: linear-gradient(#F2547D, #37195f);
+  -webkit-background: linear-gradient(#F2547D, #37195f);
+}
+
+.traveltour-top-bar {
+  color: #fff;
+}
+.traveltour-top-bar i.fa {
+  color: #fff !important;
+}
+.traveltour-top-bar .traveltour-top-bar-background {
+  background-color: #F2547D;
+}
+
+#traveltour-footer-back-to-top-button {
+  background: #FF7956 !important;
+  color: #fff !important;
+  font-size: 24px;
+  color: #fff;
+  padding: 9px 0px;
+}
+
+.mm-menu.mm-offcanvas.mm-current {
+  z-index: 5000;
+}
+
+#traveltour-mobile-menu {
+  background: #F2547D;
+}
+#traveltour-mobile-menu li.menu-item a.sf-with-ul-pre, #traveltour-mobile-menu li.menu-item a {
+  color: #fff;
+}
+#traveltour-mobile-menu li.current-menu-item a.sf-with-ul-pre, #traveltour-mobile-menu li.current-menu-item a {
+  color: #fff;
+}
+
+#services-background {
+  background: #F2547D;
+}
+
+.tourmaster-tour-category-widget .tourmaster-tour-category-thumbnail {
+  min-width: 100px;
+  min-height: 100px;
+  position: relative;
+}
+.tourmaster-tour-category-widget .tourmaster-tour-category-thumbnail img {
+  display: block;
+  min-height: 100px;
+  width: auto;
+}
+
+@media (max-width: 550px) {
+  .mm-menu {
+    width: 304px;
+  }
+}
+@media (max-screen: 767px) {
+  #tourmaster-widget-tour-category-6 {
+    display: none !important;
+  }
+}
+
+/*# sourceMappingURL=custom.css.map */

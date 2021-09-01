@@ -1,0 +1,18 @@
+$colors:(
+    black:#000,
+    footer:#121215,
+    footer_bottom:#161616,
+    primary_dark:#37195f,
+    orange:#FF7956,
+        white:#fff,
+        primary:#F2547D
+);
+/**
+ primary:#552990,
+ */
+@mixin _gradiant(){
+    background: linear-gradient(map-get($colors,primary), map-get($colors,primary_dark));
+    -moz-background: linear-gradient(map-get($colors,primary), map-get($colors,primary_dark));
+    -o-background: linear-gradient(map-get($colors,primary), map-get($colors,primary_dark));
+    -webkit-background: linear-gradient(map-get($colors,primary), map-get($colors,primary_dark));
+}
