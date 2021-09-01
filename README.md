@@ -7,7 +7,7 @@
 # install Grunt and Grunt Cli
 $ npm install
 
-# serve with hot reload at localhost:3000
+# serve with hot reload at localhost:9900
 $ grunt server
 
 ```
